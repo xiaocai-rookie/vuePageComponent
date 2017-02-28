@@ -28,3 +28,5 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#page文件夹下 是 一个简单的分页组件 简单描述了 vue中组件怎么写
+#这对我很有帮助 希望对你也有帮助
